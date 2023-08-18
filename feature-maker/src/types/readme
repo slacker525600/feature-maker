@@ -1,0 +1,4 @@
+This folder exists to hold types not dedicated to a specific branch of logic
+
+Types found in single files or contracts between two files should likely live adjacent to those files
+
